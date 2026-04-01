@@ -1,0 +1,15 @@
+{
+  "source_image": "mouse_ref.png",
+  "center_x": 1568.3836669921875,
+  "center_y": 755.35888671875,
+  "major_axis_x": 0.06299735067880462,
+  "major_axis_y": -0.9980136941983571,
+  "minor_axis_x": -0.9980136941983571,
+  "minor_axis_y": -0.06299735067880462,
+  "mouse_length_px": 634.2378540039062,
+  "mouse_width_px": 426.4841003417969,
+  "real_length_mm": 130.0,
+  "real_width_mm": 75.0,
+  "mm_per_pixel_length": 0.20497042107991134,
+  "mm_per_pixel_width": 0.17585649720562338
+}

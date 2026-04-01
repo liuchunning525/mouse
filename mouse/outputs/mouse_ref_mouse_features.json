@@ -1,0 +1,23 @@
+{
+  "contour_area_px2": 18699.5,
+  "contour_perimeter_px": 4955.479686975479,
+  "bbox_x": 1336,
+  "bbox_y": 414,
+  "bbox_w": 469,
+  "bbox_h": 642,
+  "center_x": 1568.3836669921875,
+  "center_y": 755.35888671875,
+  "mouse_length_px": 634.2378540039062,
+  "mouse_width_px": 426.4841003417969,
+  "aspect_ratio": 1.48713129867118,
+  "extent": 0.062104364691894336,
+  "circularity": 0.009569041933061575,
+  "major_axis_x": 0.06299735067880462,
+  "major_axis_y": -0.9980136941983571,
+  "minor_axis_x": -0.9980136941983571,
+  "minor_axis_y": -0.06299735067880462,
+  "real_length_mm": 130.0,
+  "real_width_mm": 75.0,
+  "mm_per_pixel_length": 0.20497042107991134,
+  "mm_per_pixel_width": 0.17585649720562338
+}

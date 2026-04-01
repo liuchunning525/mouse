@@ -1,0 +1,16 @@
+{
+  "center_x": 1528.3836669921875,
+  "center_y": 786.5444946289062,
+  "major_axis_x": 0.05755431291684668,
+  "major_axis_y": -0.9983423766747908,
+  "minor_axis_x": 0.9983423766747908,
+  "minor_axis_y": 0.05755431291684668,
+  "mouse_length_px": 634.2378540039062,
+  "mouse_width_px": 426.4841003417969,
+  "real_length_mm": 130.0,
+  "real_width_mm": 75.0,
+  "mm_per_pixel_length": 0.20497042107991134,
+  "mm_per_pixel_width": 0.17585649720562338,
+  "dx_from_ref": -40.0,
+  "dy_from_ref": 31.18560791015625
+}
