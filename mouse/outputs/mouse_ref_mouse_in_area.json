@@ -1,0 +1,31 @@
+{
+  "roi": {
+    "x1": 178,
+    "y1": 85,
+    "x2": 1063,
+    "y2": 909,
+    "width": 885,
+    "height": 824
+  },
+  "contour_area_px2": 205888.5,
+  "contour_perimeter_px": 1995.2905369997025,
+  "bbox_x": 465,
+  "bbox_y": 159,
+  "bbox_w": 378,
+  "bbox_h": 750,
+  "center_x": 655.0750732421875,
+  "center_y": 533.4635620117188,
+  "mouse_length_px": 751.415771484375,
+  "mouse_width_px": 375.22509765625,
+  "aspect_ratio": 2.002573325126454,
+  "extent": 0.7262380952380952,
+  "circularity": 0.6498747567806671,
+  "major_axis_x": -0.0034045921228964527,
+  "major_axis_y": -0.9999942043594436,
+  "minor_axis_x": -0.9999942043594436,
+  "minor_axis_y": 0.0034045921228964527,
+  "real_length_mm": 130.0,
+  "real_width_mm": 75.0,
+  "mm_per_pixel_length": 0.173006749303642,
+  "mm_per_pixel_width": 0.1998800199359499
+}
